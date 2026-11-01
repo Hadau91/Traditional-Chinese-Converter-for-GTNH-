@@ -19,3 +19,5 @@
 效果展示:
 
 <img width="1816" height="884" alt="2026-11-01_10 19 08" src="https://github.com/user-attachments/assets/925cdeb5-a493-49d2-981d-e89c736150a6" />
+
+<img width="514" height="493" alt="2026-11-01_10 56 25" src="https://github.com/user-attachments/assets/3a0ee1d7-cb1e-4984-a92f-dc3246d4feb3" />
