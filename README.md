@@ -1,5 +1,5 @@
-# Traditional-Chinese-Converter-for-GTNH-
-簡繁中文轉換器，自動轉換 GTNH 內所有含 zh_CN 的語言檔
+# Traditional-Chinese-Converter-for-GT:New horizon
+繁體中文轉換器，自動轉換 GT:New horizon 模組包內所有含 zh_CN 的語言檔
 
 *支援自訂字典(dictionary.txt)進行慣用語翻譯修正
 
@@ -21,10 +21,12 @@
 
 效果展示:(演示版本2.9.0)
 
-<img width="1816" height="884" alt="2026-11-01_10 19 08" src="https://github.com/user-attachments/assets/925cdeb5-a493-49d2-981d-e89c736150a6" />
-
 <img width="514" height="493" alt="2026-11-01_10 56 25" src="https://github.com/user-attachments/assets/3a0ee1d7-cb1e-4984-a92f-dc3246d4feb3" />
+
+<img width="1816" height="884" alt="2026-11-01_10 19 08" src="https://github.com/user-attachments/assets/925cdeb5-a493-49d2-981d-e89c736150a6" />
 
 <img width="1814" height="897" alt="2026-11-02_00 07 13" src="https://github.com/user-attachments/assets/1e92092d-3cfb-4cbd-80e7-0caebf9f13f4" />
 
 <img width="1920" height="991" alt="2026-11-03_10 04 48" src="https://github.com/user-attachments/assets/965e30a4-8259-4add-83c2-5d9e45d8edc0" />
+
+<img width="967" height="707" alt="2026-11-03_10 44 14" src="https://github.com/user-attachments/assets/f5c0c17c-bf95-4e39-a40e-4ad7456e4250" />
