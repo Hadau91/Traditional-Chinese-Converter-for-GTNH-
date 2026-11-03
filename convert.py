@@ -78,7 +78,7 @@ def stage2(base_path, replace_dict):
 
 
 # =========================
-# 第三階段：mods jar
+# 第三階段：mods jar(已棄用)
 # =========================
 def stage3(base_path, replace_dict):
     mods_path = os.path.join(base_path, ".minecraft", "mods")
@@ -151,8 +151,8 @@ def main():
     print("=== 第二階段: GregTech ===")
     stage2(base_path, replace_dict)
 
-    print("=== 第三階段: mods ===")
-    stage3(base_path, replace_dict)
+    #print("=== 第三階段: mods ===")
+    #stage3(base_path, replace_dict)
 
 
 if __name__ == "__main__":
