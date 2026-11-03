@@ -1,5 +1,5 @@
-# Traditional-Chinese-Converter-for-GT:New horizon
-繁體中文轉換器，自動轉換 GT:New horizon 模組包內所有含 zh_CN 的語言檔
+# Traditional Chinese Converter for GT:New Horizons
+繁體中文轉換器，自動轉換 GT:New horizons 模組包內所有含 zh_CN 的語言檔
 
 *支援自訂字典(dictionary.txt)進行慣用語翻譯修正
 
