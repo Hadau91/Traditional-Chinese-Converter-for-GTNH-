@@ -2,6 +2,7 @@
 簡繁中文轉換器，自動轉換 GTNH 內所有含 zh_CN 的語言檔
 
 支援自訂字典(dictionary.txt)進行慣用語翻譯修正
+支援最新遊戲內百科(GuideNH)的繁體轉換
 
 前置作業:
 
@@ -26,3 +27,5 @@ https://www.gtnewhorizons.com/GTNH-Guide-Pack/index.html
 <img width="514" height="493" alt="2026-11-01_10 56 25" src="https://github.com/user-attachments/assets/3a0ee1d7-cb1e-4984-a92f-dc3246d4feb3" />
 
 <img width="1814" height="897" alt="2026-11-02_00 07 13" src="https://github.com/user-attachments/assets/1e92092d-3cfb-4cbd-80e7-0caebf9f13f4" />
+
+<img width="1920" height="991" alt="2026-11-03_10 04 48" src="https://github.com/user-attachments/assets/965e30a4-8259-4add-83c2-5d9e45d8edc0" />
