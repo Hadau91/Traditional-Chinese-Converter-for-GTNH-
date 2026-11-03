@@ -14,9 +14,10 @@
 使用說明:
 
 1. 下載完整zip檔後，將檔案解壓縮。
-2. 點擊啟動run.bat，輸入你想轉換的GTNH資料夾位置，例如：D:\.Minecraft\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25。
-3. 等待程式跑完，開啟遊戲並將語言切換到繁體中文，退出遊戲再重進。
-4. Enjoy:)
+2. 開始轉換前請確認遊戲為關閉狀態，否則將無法轉換成功。
+3. 點擊啟動run.bat，輸入你想轉換的GTNH資料夾位置，例如：D:\.Minecraft\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25。
+4. 等待程式跑完，開啟遊戲並將語言切換到繁體中文，退出遊戲再重進。
+5. Enjoy:)
 
 ⚠️ 經測試應不影響原本文件，若有疑慮可以先備份再進行轉換。
 
