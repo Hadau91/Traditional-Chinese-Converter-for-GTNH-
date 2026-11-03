@@ -1,8 +1,9 @@
 # Traditional-Chinese-Converter-for-GTNH-
 簡繁中文轉換器，自動轉換 GTNH 內所有含 zh_CN 的語言檔
 
-支援自訂字典(dictionary.txt)進行慣用語翻譯修正
-支援最新遊戲內百科(GuideNH)的繁體轉換
+*支援自訂字典(dictionary.txt)進行慣用語翻譯修正
+
+*支援最新遊戲內百科(GuideNH)的繁體轉換
 
 前置作業:
 
