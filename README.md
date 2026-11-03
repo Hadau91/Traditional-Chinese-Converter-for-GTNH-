@@ -7,17 +7,22 @@
 
 1. 在電腦上安裝Python，可以是3.10~3.12的版本。
 2. 打開 cmd 或 PowerShell 輸入執行：pip install opencc-python-reimplemented
+3. 於以下網址下載最新釋出
+簡中漢化補丁並完成安裝: https://github.com/Kiwi233/Translation-of-GTNH/releases
 
 使用說明:
 
 1. 下載zip檔後，將所有檔案解壓縮到同一個資料夾內。
 2. 點擊啟動run.bat，輸入你想轉換的GTNH資料夾位置，例如：D:\.Minecraft\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25。
-3. 等待程式跑完(約20~30分鐘...)，開啟遊戲並將語言切換到繁體中文，退出遊戲再重進即可完成轉換。
+3. 等待程式跑完，開啟遊戲並將語言切換到繁體中文，退出遊戲再重進即可完成轉換。
 
-⚠️ 注意：會修改 mods 的.jar檔案，建議先備份！如果有翻譯用詞想優化，也可以直接改字典檔，但是工具要重跑才能更新。
+⚠️ 注意：由於官方未支援繁體中文語言碼，2.9.0新增之遊戲內百科(Guide NH)僅能以英文顯示，若是想要使用該功能建議前往以下網頁版網址，用網頁翻譯功能自動簡轉繁。
+https://www.gtnewhorizons.com/GTNH-Guide-Pack/index.html
 
-效果展示:
+效果展示:(演示版本2.9.0)
 
 <img width="1816" height="884" alt="2026-11-01_10 19 08" src="https://github.com/user-attachments/assets/925cdeb5-a493-49d2-981d-e89c736150a6" />
 
 <img width="514" height="493" alt="2026-11-01_10 56 25" src="https://github.com/user-attachments/assets/3a0ee1d7-cb1e-4984-a92f-dc3246d4feb3" />
+
+<img width="1814" height="897" alt="2026-11-02_00 07 13" src="https://github.com/user-attachments/assets/1e92092d-3cfb-4cbd-80e7-0caebf9f13f4" />
